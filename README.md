@@ -76,6 +76,7 @@ void exercice1()
 }
 
 // ----------------- Exercice 2 -----------------
+
 void insertSorted(struct Node **head, int value)
 {
 	struct Node *newNode1 = newNode(value);
@@ -109,6 +110,7 @@ void exercice2()
 }
 
 // ----------------- Exercice 3 -----------------
+
 struct DNode
 {
 	int data;
@@ -174,6 +176,7 @@ void exercice3()
 }
 
 // ----------------- Exercice 4 -----------------
+
 struct CNode
 {
 	int data;
@@ -249,6 +252,7 @@ void exercice4()
 }
 
 // ----------------- Exercice 5 -----------------
+
 struct DCNode
 {
 	int data;
